@@ -5,4 +5,5 @@ header {
     color: ghostwhite;
     padding: 15px 20px;
     border: solid 12px slategray;
+    border-radius: 12%;
 }

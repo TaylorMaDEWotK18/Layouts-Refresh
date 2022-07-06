@@ -1,0 +1,40 @@
+/* The BOX MODEL is what describes the amount of space each element takes up on the page. */
+/* FUN FACT!- When no border color is defined it inherits the text color of the content! */
+* {
+    box-sizing: border-box;
+}
+header {
+    background-color: rgb(38, 184, 184);
+    color: ghostwhite;
+    padding: 15px 20px;
+    border: solid 12px slategray;
+    border-radius: 12%;
+    border-bottom-color: aqua;
+    font-size: 1.5rem;
+    text-align: center;
+    /* margin: 0px -10px; */
+}
+body {
+    margin: 0;
+}
+main {
+    margin: 8px;
+}
+aside img {
+    width: 600px;
+}
+#bio {
+    width: 600px;
+    padding: 10px 15px;
+    border: black 3px solid;
+    background-color: aqua;
+}
+footer {
+    width: 100%;
+    padding: 5px 8px;
+    border: 2px solid purple;
+    margin: 30px auto 15px;
+    color: orange;
+    font-size: .8rem;
+    text-align: center;
+}

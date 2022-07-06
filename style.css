@@ -1,5 +1,8 @@
 /* The BOX MODEL is what describes the amount of space each element takes up on the page. */
 /* FUN FACT!- When no border color is defined it inherits the text color of the content! */
+* {
+    box-sizing: border-box;
+}
 header {
     background-color: rgb(38, 184, 184);
     color: ghostwhite;
@@ -18,7 +21,7 @@ main {
     margin: 8px;
 }
 footer {
-    width: 200px;
+    width: 100%;
     padding: 5px 8px;
     border: 2px solid purple;
     margin: 30px auto 15px;

@@ -15,3 +15,9 @@ body {
 main {
     margin: 8px;
 }
+footer {
+    width: 170px;
+    padding: 5px 8px;
+    border: 2px solid purple;
+    margin: 30px 2px 15px;
+}

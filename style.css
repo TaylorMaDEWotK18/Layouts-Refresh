@@ -20,6 +20,15 @@ body {
 main {
     margin: 8px;
 }
+aside img {
+    width: 600px;
+}
+#bio {
+    width: 600px;
+    padding: 10px 15px;
+    border: black 3px solid;
+    background-color: aqua;
+}
 footer {
     width: 100%;
     padding: 5px 8px;

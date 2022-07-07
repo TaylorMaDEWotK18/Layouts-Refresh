@@ -24,8 +24,9 @@ aside img, #bio {
     width: 100%;
     max-width: 500px;
 }
-.hide {
-    display: inline-block;
+ul li {
+    display: inline;
+    background-color: red;
 }
 section {
     min-height: 100vh;

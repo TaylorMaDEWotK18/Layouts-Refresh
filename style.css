@@ -24,6 +24,12 @@ aside img, #bio {
     width: 100%;
     max-width: 500px;
 }
+section {
+    min-height: 100vh;
+    padding: 1rem;
+    border-bottom: 2px dotted #777;
+    background-color: azure;
+}
 #bio {
     padding: 10px 15px;
     border: slategrey 3px solid;

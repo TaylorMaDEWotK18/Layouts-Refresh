@@ -20,13 +20,11 @@ body {
 main {
     margin: 8px;
 }
-aside img {
+aside img, #bio {
     width: 100%;
     max-width: 600px;
 }
 #bio {
-    width: 100%;
-    max-width: 600px;
     padding: 10px 15px;
     border: slategrey 3px solid;
     background-color: aqua;

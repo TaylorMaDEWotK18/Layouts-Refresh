@@ -25,6 +25,10 @@ aside img, #bio {
     width: 100%;
     max-width: 500px;
 }
+figure {
+    position: relative;
+    margin:0;
+}
 ul li {
     display: inline;
     background-color: red;

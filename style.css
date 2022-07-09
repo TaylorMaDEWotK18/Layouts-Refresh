@@ -29,6 +29,9 @@ figure {
     position: relative;
     margin:0;
 }
+figcaption {
+    position: absolute;
+}
 ul li {
     display: inline;
     background-color: red;

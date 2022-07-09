@@ -31,6 +31,9 @@ figure {
 }
 figcaption {
     position: absolute;
+    width: 100%;
+    bottom: 20px;
+    background-color: yellow;
 }
 ul li {
     display: inline;

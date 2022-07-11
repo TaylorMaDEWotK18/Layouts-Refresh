@@ -21,7 +21,7 @@ body {
 main {
     margin: 8px;
 }
-aside img, #bio {
+aside img, figure, #bio {
     width: 100%;
     max-width: 500px;
 }

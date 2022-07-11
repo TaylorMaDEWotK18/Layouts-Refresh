@@ -21,6 +21,15 @@ body {
 main {
     margin: 8px;
 }
+#interesting-banner {
+    padding: 10px 15px;
+    border: 5px solid lightsalmon;
+    margin: 0 -8px;
+    background-color: firebrick;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
 aside img, figure, #bio {
     width: 100%;
     max-width: 500px;

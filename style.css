@@ -10,8 +10,8 @@ header {
     top: 0;
     background-color: rgb(38, 184, 184);
     color: ghostwhite;
-    padding: 15px 20px;
-    border: solid 12px slategray;
+    padding: 10px 20px;
+    border: solid 6px slategray;
     border-radius: 12%;
     border-bottom-color: aqua;
     font-size: 1.5rem;
@@ -28,6 +28,8 @@ main {
     margin: 8px;
 }
 #interesting-banner {
+    position: sticky;
+    top: 0;
     padding: 10px 15px;
     border: 5px solid lightsalmon;
     margin: 0 -8px;

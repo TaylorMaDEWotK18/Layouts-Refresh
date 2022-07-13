@@ -5,6 +5,8 @@
     
 }
 header {
+    position: fixed;
+    width: 100%;
     background-color: rgb(38, 184, 184);
     color: ghostwhite;
     padding: 15px 20px;

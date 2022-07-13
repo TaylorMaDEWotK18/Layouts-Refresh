@@ -7,6 +7,7 @@
 header {
     position: fixed;
     width: 100%;
+    top: 0;
     background-color: rgb(38, 184, 184);
     color: ghostwhite;
     padding: 15px 20px;
@@ -16,6 +17,9 @@ header {
     font-size: 1.5rem;
     text-align: center;
     /* margin: 0px -10px; */
+}
+article {
+    margin-top: 4rem;;
 }
 body {
     margin: 0;

@@ -29,10 +29,10 @@ main {
 }
 #interesting-banner {
     position: sticky;
+    width: 100%;
     top: 0;
     padding: 10px 15px;
-    border: 5px solid lightsalmon;
-    margin: 0 -8px;
+    border: 6px solid lightsalmon;
     background-color: firebrick;
     color: white;
     font-weight: bold;

@@ -2,7 +2,6 @@
 /* FUN FACT!- When no border color is defined it inherits the text color of the content! */
 * {
     box-sizing: border-box;
-    
 }
 header {
     position: fixed;
@@ -23,6 +22,7 @@ article {
     margin-top: 4rem;;
 }
 body {
+    font-family: "Gotham Rounded", Verdana;
     margin: 0;
 }
 main {

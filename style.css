@@ -28,6 +28,7 @@ body {
 }
 main {
     margin: 8px;
+    hyphens: auto;
 }
 #interesting-banner {
     position: sticky;

@@ -51,6 +51,9 @@ figure {
     z-index: 1;
     margin:0;
 }
+figure img {
+    box-shadow: 0 0 12px 25px firebrick;
+}
 figcaption {
     position: absolute;
     width: 100%;

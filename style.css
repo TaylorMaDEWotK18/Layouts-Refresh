@@ -42,6 +42,9 @@ main {
     font-weight: bold;
     text-align: center;
 }
+#ed-pic-test {
+    background: url('ed.jpg') bottom no-repeat;
+}
 aside img, figure, #bio {
     width: 100%;
     max-width: 500px;

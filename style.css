@@ -43,7 +43,9 @@ main {
     text-align: center;
 }
 #spike-pic-test {
-    background: url('spike.jpeg') bottom no-repeat;
+    background:  
+     url('spike.jpeg') center no-repeat silver
+     linear-gradient(grey 5%, blue 80%);
 }
 aside img, figure, #bio {
     width: 100%;
